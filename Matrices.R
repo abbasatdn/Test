@@ -9,7 +9,7 @@ over.23
 stock.prices[over.23]
 max(stock.prices)
 
-mat <- matrix(sample.int(100,15), nrow = 5)
+mat <- matrix(sample.int(200,15), nrow = 5)
 ######### Matrices ###############
 v <- 1:10
 matrix(v, nrow = 2,byrow = TRUE)
